@@ -1,0 +1,8 @@
+module.exports = {
+    BACKTEST_TEST_PAIR: "BTCUSDT",
+    BVA_API_KEY: "63741dfb33a652ab5b8b4aeb",
+    CONNECT_SERVER_TO_BVA: true,
+    SERVER_PORT: 4000,
+    STRATEGY_TIMEFRAME: "15m",
+    VERSION: "0.1.0",
+}
